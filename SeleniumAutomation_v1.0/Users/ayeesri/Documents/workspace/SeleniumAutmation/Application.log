@@ -1,0 +1,170 @@
+09/10/2017 13:22:08 devpinoyLogger Hello
+09/10/2017 13:22:08 devpinoyLogger Properties loaded. Starting testing
+09/10/2017 13:22:08 devpinoyLogger Intialize Suite xlsx
+09/10/2017 13:22:09 devpinoyLogger Executing the test case -> SetUp
+09/10/2017 13:22:09 devpinoyLogger openBrowser
+09/10/2017 13:22:09 devpinoyLogger Opening browser
+09/10/2017 13:22:12 devpinoyLogger Pass
+09/10/2017 13:22:12 devpinoyLogger Wait
+09/10/2017 13:22:12 devpinoyLogger Waiting for  5000
+09/10/2017 13:22:17 devpinoyLogger Pass
+09/10/2017 13:22:18 devpinoyLogger navigate
+09/10/2017 13:22:18 devpinoyLogger Navigating to URL
+09/10/2017 13:22:22 devpinoyLogger Pass
+09/10/2017 13:22:22 devpinoyLogger Wait
+09/10/2017 13:22:22 devpinoyLogger Waiting for  5000
+09/10/2017 13:22:27 devpinoyLogger Pass
+09/10/2017 13:22:28 devpinoyLogger writeInInput
+09/10/2017 13:22:28 devpinoyLogger Writing in text box:: Object is edit-name Data is vijay.balasubramanian@anthem.com
+09/10/2017 13:22:28 devpinoyLogger Locator = edit-name Data vijay.balasubramanian@anthem.com
+09/10/2017 13:22:28 devpinoyLogger Locator = edit-name Data vijay.balasubramanian@anthem.com
+09/10/2017 13:22:28 devpinoyLogger Waiting for Elements to completely load ...
+09/10/2017 13:22:28 devpinoyLogger Pass
+09/10/2017 13:22:28 devpinoyLogger Wait
+09/10/2017 13:22:28 devpinoyLogger Waiting for  5000
+09/10/2017 13:22:33 devpinoyLogger Pass
+09/10/2017 13:22:34 devpinoyLogger writeInInput
+09/10/2017 13:22:34 devpinoyLogger Writing in text box:: Object is edit-pass Data is welcome123
+09/10/2017 13:22:34 devpinoyLogger Locator = edit-pass Data welcome123
+09/10/2017 13:22:34 devpinoyLogger Locator = edit-pass Data welcome123
+09/10/2017 13:22:34 devpinoyLogger Waiting for Elements to completely load ...
+09/10/2017 13:22:34 devpinoyLogger Pass
+09/10/2017 13:22:34 devpinoyLogger clickButton
+09/10/2017 13:22:34 devpinoyLogger Clicking on Button 
+09/10/2017 13:22:34 devpinoyLogger Locator = edit-submit Data 
+09/10/2017 13:22:34 devpinoyLogger Waiting for Elements to completely load ...
+09/10/2017 13:22:48 devpinoyLogger Pass
+09/10/2017 13:22:48 devpinoyLogger Wait
+09/10/2017 13:22:48 devpinoyLogger Waiting for  5000
+09/10/2017 13:22:53 devpinoyLogger Pass
+09/10/2017 13:22:54 devpinoyLogger Executing the test case -> Pega_Dash
+09/10/2017 13:22:54 devpinoyLogger clickLink_linkText
+09/10/2017 13:22:54 devpinoyLogger Clicking on link 
+09/10/2017 13:22:54 devpinoyLogger Pass
+09/10/2017 13:22:55 devpinoyLogger Executing the test case -> Pega_Logout
+09/10/2017 13:22:55 devpinoyLogger clickLink_linkText
+09/10/2017 13:22:55 devpinoyLogger Clicking on link 
+09/10/2017 13:22:59 devpinoyLogger Pass
+09/10/2017 13:23:00 devpinoyLogger Wait
+09/10/2017 13:23:00 devpinoyLogger Waiting for  5000
+09/10/2017 13:23:05 devpinoyLogger Pass
+09/10/2017 13:23:05 devpinoyLogger verifyText
+09/10/2017 13:23:05 devpinoyLogger Verifying the text --Locator //*[@id="block-system-main"]/h3
+09/10/2017 13:23:05 devpinoyLogger Locator = //*[@id="block-system-main"]/h3 Data Thank you for using Pega.com!
+09/10/2017 13:23:05 devpinoyLogger Locator = //*[@id="block-system-main"]/h3 Data Thank you for using Pega.com!
+09/10/2017 13:23:05 devpinoyLogger Waiting for Elements to completely load ...
+09/10/2017 13:23:05 devpinoyLogger Pass
+09/10/2017 13:23:05 devpinoyLogger clickLink
+09/10/2017 13:23:05 devpinoyLogger Clicking on link -- Locator is //*[@id="navbar"]/div/div[2]/div[2]/div[2]/nav/ul/li[2]/a
+09/10/2017 13:23:05 devpinoyLogger Locator = //*[@id="navbar"]/div/div[2]/div[2]/div[2]/nav/ul/li[2]/a Data 
+09/10/2017 13:23:05 devpinoyLogger Waiting for Elements to completely load ...
+09/10/2017 13:23:05 devpinoyLogger Pass
+09/10/2017 13:23:06 devpinoyLogger Wait
+09/10/2017 13:23:06 devpinoyLogger Waiting for  5000
+09/10/2017 13:23:11 devpinoyLogger Pass
+09/10/2017 13:23:11 devpinoyLogger clickLink_linkText
+09/10/2017 13:23:11 devpinoyLogger Clicking on link 
+09/10/2017 13:23:15 devpinoyLogger Pass
+09/10/2017 13:23:15 devpinoyLogger Wait
+09/10/2017 13:23:15 devpinoyLogger Waiting for  5000
+09/10/2017 13:23:20 devpinoyLogger Pass
+09/10/2017 13:23:21 devpinoyLogger clickLink
+09/10/2017 13:23:21 devpinoyLogger Clicking on link -- Locator is //*[@id="node-73776"]/fieldset/div/fieldset[1]/div/div/div[4]/div/div/div/div/div/div/div/div/div/div/a[2]
+09/10/2017 13:23:21 devpinoyLogger Locator = //*[@id="node-73776"]/fieldset/div/fieldset[1]/div/div/div[4]/div/div/div/div/div/div/div/div/div/div/a[2] Data 
+09/10/2017 13:23:21 devpinoyLogger Waiting for Elements to completely load ...
+09/10/2017 13:23:21 devpinoyLogger Pass
+09/10/2017 13:23:26 devpinoyLogger writeInInput
+09/10/2017 13:23:26 devpinoyLogger Writing in text box:: Object is edit-submitted-firstname Data is Vijay
+09/10/2017 13:23:26 devpinoyLogger Locator = edit-submitted-firstname Data Vijay
+09/10/2017 13:23:26 devpinoyLogger Locator = edit-submitted-firstname Data Vijay
+09/10/2017 13:23:26 devpinoyLogger Waiting for Elements to completely load ...
+09/10/2017 13:23:27 devpinoyLogger Pass
+09/10/2017 13:23:27 devpinoyLogger writeInInput
+09/10/2017 13:23:27 devpinoyLogger Writing in text box:: Object is edit-submitted-lastname Data is Shan
+09/10/2017 13:23:27 devpinoyLogger Locator = edit-submitted-lastname Data Shan
+09/10/2017 13:23:27 devpinoyLogger Locator = edit-submitted-lastname Data Shan
+09/10/2017 13:23:27 devpinoyLogger Waiting for Elements to completely load ...
+09/10/2017 13:23:28 devpinoyLogger Pass
+09/10/2017 13:23:28 devpinoyLogger writeInInput
+09/10/2017 13:23:28 devpinoyLogger Writing in text box:: Object is //*[@id="edit-submitted-email"] Data is sri.cuda@gmail.com
+09/10/2017 13:23:28 devpinoyLogger Locator = //*[@id="edit-submitted-email"] Data sri.cuda@gmail.com
+09/10/2017 13:23:28 devpinoyLogger Locator = //*[@id="edit-submitted-email"] Data sri.cuda@gmail.com
+09/10/2017 13:23:28 devpinoyLogger Waiting for Elements to completely load ...
+09/10/2017 13:23:29 devpinoyLogger Pass
+09/10/2017 13:23:29 devpinoyLogger writeInInput
+09/10/2017 13:23:29 devpinoyLogger Writing in text box:: Object is edit-submitted-organization Data is Anthem
+09/10/2017 13:23:29 devpinoyLogger Locator = edit-submitted-organization Data Anthem
+09/10/2017 13:23:29 devpinoyLogger Locator = edit-submitted-organization Data Anthem
+09/10/2017 13:23:29 devpinoyLogger Waiting for Elements to completely load ...
+09/10/2017 13:23:29 devpinoyLogger Pass
+09/10/2017 13:23:30 devpinoyLogger writeInInput
+09/10/2017 13:23:30 devpinoyLogger Writing in text box:: Object is //*[@id="edit-submitted-jobtitle"] Data is Pega Developer
+09/10/2017 13:23:30 devpinoyLogger Locator = //*[@id="edit-submitted-jobtitle"] Data Pega Developer
+09/10/2017 13:23:30 devpinoyLogger Locator = //*[@id="edit-submitted-jobtitle"] Data Pega Developer
+09/10/2017 13:23:30 devpinoyLogger Waiting for Elements to completely load ...
+09/10/2017 13:23:30 devpinoyLogger Pass
+09/10/2017 13:23:30 devpinoyLogger writeInInput
+09/10/2017 13:23:30 devpinoyLogger Writing in text box:: Object is edit-submitted-phone Data is 912432543
+09/10/2017 13:23:30 devpinoyLogger Locator = edit-submitted-phone Data 912432543
+09/10/2017 13:23:30 devpinoyLogger Locator = edit-submitted-phone Data 912432543
+09/10/2017 13:23:30 devpinoyLogger Waiting for Elements to completely load ...
+09/10/2017 13:23:31 devpinoyLogger Pass
+09/10/2017 13:23:31 devpinoyLogger click
+09/10/2017 13:23:31 devpinoyLogger Clicking on any element --Locator //*[@id="webform-client-form-79256"]/div/div[7]/div/button/span[1]
+09/10/2017 13:23:31 devpinoyLogger Locator = //*[@id="webform-client-form-79256"]/div/div[7]/div/button/span[1] Data 
+09/10/2017 13:23:31 devpinoyLogger Waiting for Elements to completely load ...
+09/10/2017 13:23:31 devpinoyLogger Pass
+09/10/2017 13:23:32 devpinoyLogger Wait
+09/10/2017 13:23:32 devpinoyLogger Waiting for  5000
+09/10/2017 13:23:37 devpinoyLogger Pass
+09/10/2017 13:23:37 devpinoyLogger Executing the test case -> tearDown
+09/10/2017 13:23:37 devpinoyLogger click
+09/10/2017 13:23:37 devpinoyLogger Clicking on any element --Locator //*[@id="webform-client-form-79256"]/div/div[7]/div/div/ul/li[4]/a
+09/10/2017 13:23:37 devpinoyLogger Locator = //*[@id="webform-client-form-79256"]/div/div[7]/div/div/ul/li[4]/a Data 
+09/10/2017 13:23:37 devpinoyLogger Waiting for Elements to completely load ...
+09/10/2017 13:23:37 devpinoyLogger Pass
+09/10/2017 13:23:38 devpinoyLogger Wait
+09/10/2017 13:23:38 devpinoyLogger Waiting for  5000
+09/10/2017 13:23:43 devpinoyLogger Pass
+09/10/2017 13:23:43 devpinoyLogger click
+09/10/2017 13:23:43 devpinoyLogger Clicking on any element --Locator //*[@id="edit-submitted-terms-of-service-1"]
+09/10/2017 13:23:43 devpinoyLogger Locator = //*[@id="edit-submitted-terms-of-service-1"] Data 
+09/10/2017 13:23:43 devpinoyLogger Waiting for Elements to completely load ...
+09/10/2017 13:23:43 devpinoyLogger Pass
+09/10/2017 13:23:44 devpinoyLogger verifyCheckBoxSelected
+09/10/2017 13:23:44 devpinoyLogger Verifying checkbox selected --Locator //*[@id="edit-submitted-terms-of-service-1"]
+09/10/2017 13:23:44 devpinoyLogger Locator = //*[@id="edit-submitted-terms-of-service-1"] Data 
+09/10/2017 13:23:44 devpinoyLogger Waiting for Elements to completely load ...
+09/10/2017 13:23:44 devpinoyLogger Pass
+09/10/2017 13:23:44 devpinoyLogger clickButton
+09/10/2017 13:23:44 devpinoyLogger Clicking on Button 
+09/10/2017 13:23:44 devpinoyLogger Locator = //*[@id="webform-client-form-79256"]/div/div[20]/button Data 
+09/10/2017 13:23:44 devpinoyLogger Waiting for Elements to completely load ...
+09/10/2017 13:23:50 devpinoyLogger Pass
+09/10/2017 13:23:51 devpinoyLogger Wait
+09/10/2017 13:23:51 devpinoyLogger Waiting for  5000
+09/10/2017 13:23:56 devpinoyLogger Pass
+09/10/2017 13:23:56 devpinoyLogger verifyText
+09/10/2017 13:23:56 devpinoyLogger Verifying the text --Locator //*[@id="block-system-main"]/div/div/div/h1
+09/10/2017 13:23:56 devpinoyLogger Locator = //*[@id="block-system-main"]/div/div/div/h1 Data Congratulations!
+09/10/2017 13:23:56 devpinoyLogger Locator = //*[@id="block-system-main"]/div/div/div/h1 Data Congratulations!
+09/10/2017 13:23:56 devpinoyLogger Waiting for Elements to completely load ...
+09/10/2017 13:23:56 devpinoyLogger Pass
+09/10/2017 13:23:56 devpinoyLogger scrollDown
+09/10/2017 13:23:56 devpinoyLogger Scrolling down the side bar
+09/10/2017 13:23:56 devpinoyLogger Pass
+09/10/2017 13:23:57 devpinoyLogger Wait
+09/10/2017 13:23:57 devpinoyLogger Waiting for  5000
+09/10/2017 13:24:02 devpinoyLogger Pass
+09/10/2017 13:24:02 devpinoyLogger Skipping the test 
+09/10/2017 13:24:02 devpinoyLogger *********************************** --- Skip
+09/10/2017 13:24:02 devpinoyLogger Skipping the test 
+09/10/2017 13:24:02 devpinoyLogger *********************************** --- Skip
+09/10/2017 13:24:02 devpinoyLogger Skipping the test 
+09/10/2017 13:24:02 devpinoyLogger *********************************** --- Skip
+09/10/2017 13:24:02 devpinoyLogger Skipping the test 
+09/10/2017 13:24:02 devpinoyLogger *********************************** --- Skip
+09/10/2017 13:24:02 devpinoyLogger Skipping the test 
+09/10/2017 13:24:02 devpinoyLogger *********************************** --- Skip
+09/10/2017 13:24:02 devpinoyLogger Skipping the test 
+09/10/2017 13:24:02 devpinoyLogger *********************************** --- Skip
